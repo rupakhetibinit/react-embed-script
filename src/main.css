@@ -1,0 +1,64 @@
+.icon-width {
+	width: 1.5rem;
+}
+
+.container {
+	position: fixed;
+	bottom: 4rem;
+	right: 2rem;
+	z-index: 2453253;
+}
+
+.flex {
+	display: flex;
+}
+
+.hidden {
+	display: none;
+}
+
+.chatbot-container {
+	width: 24rem;
+	height: 75vh;
+	flex-direction: column;
+	border: 1px solid black;
+	padding: 1rem 2rem;
+	border-radius: 1rem;
+	position: relative;
+}
+
+.chatbot-container-inner {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid black;
+	padding: 0.1rem 0.1rem;
+}
+
+.x-button {
+	background-color: white;
+
+	border: none;
+	margin: 0;
+	padding: 0;
+	cursor: pointer;
+}
+
+.chat-open-button {
+	display: grid;
+	place-items: center;
+	width: 2.5rem;
+	height: 2.5rem;
+	border-radius: 2.5rem;
+	padding: 0;
+	margin: 0;
+	color: white;
+	background-color: black;
+}
+
+.chat-button-container {
+	position: fixed;
+	bottom: 0.8rem;
+	right: 2rem;
+}
