@@ -14,7 +14,7 @@ An example usage would be like this
 
 Some references that I used were
 
-- Stackoverflow post showing usage of cssInjectedByJsPlugin (this plugin is used to inject generated build-time css via javascript without a separate css file ) https://stackoverflow.com/questions/72440923/bundle-react-js-project-into-single-js-file-that-can-be-embedded-in-ghost-blog-p
+- Stackoverflow post showing usage of cssInjectedByJsPlugin (this plugin is used to inject generated build-time css via javascript without a separate css file) https://stackoverflow.com/a/72526153
 - Vite Library Mode Docs - https://vitejs.dev/guide/build.html#library-mode
 
 # For running and testing the widget
