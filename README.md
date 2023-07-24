@@ -25,7 +25,7 @@ Some references that I used were
 
 
 ## Build and Serve the test file
--`npm install`
+- `npm install`
 
 - `npm run build`
 
